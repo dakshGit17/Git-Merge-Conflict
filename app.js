@@ -1,5 +1,5 @@
 function greet() {
-    console.log("Hello, World!");
+    console.log("Hello from Feature One!");
 }
 
 greet();
